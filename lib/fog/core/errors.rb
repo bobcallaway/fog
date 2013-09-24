@@ -104,6 +104,9 @@ An alternate file may be used by placing its path in the FOG_RC environment vari
   :vcloud_director_host:
   :vcloud_director_username:
   :vcloud_director_password:
+  :softlayer_username:
+  :softlayer_api_key:
+  :softlayer_url:
 #
 # End of Fog Credentials File
 #######################################################
